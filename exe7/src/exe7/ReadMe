@@ -1,0 +1,3 @@
+O padrão adequado para o problema é o Observer, pois a partir de uma 
+alteração é necessário alertar a todos as outras classes que ocorreu
+uma atualização, e é o unico padrão que faz isso.
